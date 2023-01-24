@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **MERN,React Native and Flutter**
 
-- 👨‍💻 All of my projects are available at [https://in.linkedin.com›aswick-j-20457716a](https://in.linkedin.com›aswick-j-20457716a)
-
 - 💬 Ask me about **MERN and FLutter**
 
 - 📫 How to reach me **aswickjothi27@gmail.com**
