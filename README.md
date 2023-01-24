@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aswick</h1>
-<h3 align="center">A passionate Full Stack and Mobile Developer from India</h3>
+<h3 align="center">A Passionate Full Stack and Mobile Developer from India</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aswick-j" alt="aswick-j" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/aswickj" target="blank"><img src="https://img.shields.io/twitter/follow/aswickj?logo=twitter&style=for-the-badge" alt="aswickj" /></a> </p>
 
-- 🌱 I’m currently learning **MERN,React Native and Flutter**
+- 🌱 I’m currently learning **MERN, React Native and Flutter**
 
-- 💬 Ask me about **MERN and FLutter**
+- 💬 Ask me about **MERN and Flutter**
 
 - 📫 How to reach me **aswickjothi27@gmail.com**
 
